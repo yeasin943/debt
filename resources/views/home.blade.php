@@ -1,4 +1,14 @@
-<form class="row g-3">
+<html>
+    <head>
+        <title>Debt</title>
+
+    </head>
+    <body>
+    <div class="text-center">
+  <img src="..." class="rounded" alt="...">
+</div>
+        <div class="top-row"></div>
+        <form class="row g-3">
   <div class="col-md-6">
     <label for="inputEmail4" class="form-label">Email</label>
     <input type="email" class="form-control" id="inputEmail4">
@@ -42,3 +52,6 @@
     <button type="submit" class="btn btn-primary">Sign in</button>
   </div>
 </form>
+    </body>
+</html>
+
